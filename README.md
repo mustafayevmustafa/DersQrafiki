@@ -4,51 +4,49 @@
 #1 Ay
 ###########################
 
-#Ders1
+#Lesson1
 Why do we need to know html?
 HTML Basic
 HTML - The Head Element
 HTML Elements
 HTML Attributes
 
-#Ders2
+#Lesson2
 HTML Headings
 HTML Paragraphs
 HTML Styles
 HTML Text Formatting
 HTML Comment Tag
 
-
-
-#Ders3
+#Lesson3
 HTML Colors
 HTML Links
 HTML Images
 HTML File Paths
 
 
-#Ders4
+#Lesson4
 HTML Tables
 HTML Table Borders
 HTML Table Sizes
 HTML Table Colspan & Rowspan
 
 
-#Ders5
+#Lesson5
 HTML Lists
 HTML Unordered Lists
 HTML Ordered Lists
 
-#Ders6
+#Lesson6
 HTML Block and Inline Elements
 
-#Ders7
+#Lesson7
 HTML class Attribute
 HTML id Attribute
 HTML Iframes
 
 
-#Ders8
+#Lesson8
 HTML Forms
 HTML Form Attributes
 HTML Form Elements
@@ -57,21 +55,21 @@ HTML Input Attributes
 HTML Input form* Attributes
 
 
-#Ders9
+#Lesson9
 HTML Multimedia
 HTML Video
 HTML Audio
 HTML YouTube Videos
 
 
-#Ders10
+#Lesson10
 HTML Layout Elements and Techniques
 
-#Ders11
+#Lesson11
 HTML Encoding (Character Sets)
 HTML Responsive Web Design
 
-#Ders 12
+#Lesson12
 General Repeat and Web Site Code Review
 
 
