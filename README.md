@@ -1,4 +1,4 @@
-# DersQrafiki
+# Lesson Schedule
 
 ###########################
 #1 Ay
